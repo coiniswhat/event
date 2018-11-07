@@ -1,1 +1,4 @@
-git add README.txt
+Dette er det første kommitet. :)))
+
+
+
