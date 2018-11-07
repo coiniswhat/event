@@ -36,6 +36,9 @@ Oppgave F - KOntakt./ Om oss.
 Oppgave G - Design Farger.
 
 
+Oppgave  H - Forside.
+
+
 
 
 
